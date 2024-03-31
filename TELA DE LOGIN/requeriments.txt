@@ -1,0 +1,4 @@
+streamlit
+streamlit_authenticator
+psycopg2
+python-dotenv
